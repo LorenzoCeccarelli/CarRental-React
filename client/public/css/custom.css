@@ -1,0 +1,45 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+/* Global */
+.vheight-100 {
+    min-height: 100vh;
+}
+
+.below-nav {
+    padding-top: 5rem;
+}
+
+
+#containerMainContent{
+    padding-top:1%;
+}
+#navbar {
+    background-color: rgb(240, 240, 173);
+}
+#containerLogin{
+    align-content:center;
+    width: 500px;
+    height: 400px;
+    background-color: rgba(228, 228, 228, 0.884);
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 2%;
+    padding-left: 6%;
+    padding-right:6.5%;
+}
+
+#sidebarCatalogo{
+    background-color: rgb(240, 240, 173);
+    border-radius: 10px 10px 10px 10px;
+    padding-right: 10%;
+}
+
+#containerConfiguratore{
+    align-content: center;
+    width: 1100px;
+    height: 600px;
+    background-color: rgba(228, 228, 228, 0.884);
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 2%;
+    padding-left: 6%;
+    padding-right:6.5%;
+}
