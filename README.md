@@ -1,7 +1,20 @@
 # Installazione 
-  '''
+  ```
   git clone https://github.com/LorenzoCeccarelli/CarRental-React.git
-  '''
+  cd CarRental-React
+  ```
+  ## Server
+  ```
+  cd server
+  npm install
+  node server.js
+  ```
+  ## Client
+  ```
+  cd client 
+  npm install
+  npm start
+  ```
 # Descrizione
 
 ## React client application routes
