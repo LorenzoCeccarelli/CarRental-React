@@ -1,5 +1,7 @@
 # Installazione 
-  
+  '''
+  git clone https://github.com/LorenzoCeccarelli/CarRental-React.git
+  '''
 # Descrizione
 
 ## React client application routes
